@@ -1,6 +1,9 @@
 import React from "react";
 
 function RollDice() {
+  const roleDice = ()=>{
+    
+  }
   return (
     <div className="mt-12 flex flex-col items-center">
       <div className="cursor-pointer" onClick={roleDice}>
